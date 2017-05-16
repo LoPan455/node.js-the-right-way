@@ -29,7 +29,6 @@ const
         throw Error('No target filename was specified');
     }
 
-    server.listen(5001, function(){
+    server.listen('/tmp/watcher.sock', function(){
         console.log('Listening for subscribers...');
     })
-
