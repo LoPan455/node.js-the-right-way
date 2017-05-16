@@ -1,0 +1,12 @@
+Notes
+----
+
+Modules we've covered:
+fs
+net
+child_process
+
+
+Concepts
+----
+Event Emitters (.on())
